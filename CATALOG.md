@@ -9,6 +9,7 @@ Este catálogo contiene trabajo profesional listo para publicar. Excluye intenci
 | Title | Type | Primary area | What it demonstrates |
 |---|---|---|---|
 | [Android Application Security Audit Lab](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/README.md) | Lab | [Security Operations](security-operations/README.md) | Controlled assessment, evidence integrity, technical-to-business translation, and executive communication. |
+| [Who Answers When the CISO Stays Silent?](governance-risk/ciso-personal-liability/README.md) | Article | [Governance & Risk](governance-risk/README.md) | Regulatory risk analysis, executive risk communication, and governance accountability reasoning. |
 
 ## Reading paths | Rutas de lectura
 
