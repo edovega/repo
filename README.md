@@ -1,33 +1,55 @@
-# Master's Cybersecurity Portfolio | Portafolio de Maestría
+# Cybersecurity Leadership & Practice Portfolio
 
-Practical, reproducible cybersecurity learning resources by **Eduardo J. Vega Arguedas (Ed)**.
+Practical cybersecurity, governance, resilience, AI, and leadership work by **Eduardo J. Vega Arguedas**.
 
-Recursos prácticos y reproducibles de aprendizaje en ciberseguridad por **Eduardo J. Vega Arguedas (Ed)**.
-
-[English](#english) · [Español](#español) · [LinkedIn](https://www.linkedin.com/in/eduardovegaa/)
+[English](#english) · [Español](#español) · [LinkedIn](https://www.linkedin.com/in/eduardovegaa/) · [GitHub](https://github.com/edovega) · [Master's program](https://ucenfotec.ac.cr/Carreras/maestria-profesional-en-ciberseguridad-y-seguridad-de-la-informacion/)
 
 ## English
 
-This repository turns selected graduate-level cybersecurity work into approachable tutorials. The goal is not to publish assignments: it is to explain how a laboratory was designed, why each component was selected, how evidence was preserved, and what a cybersecurity leader should learn from the technical results.
+This is a curated professional portfolio, not a repository of raw academic submissions. Each published item turns a relevant question, controlled practice, or research insight into something useful: a defensible lab, an executive brief, a reusable framework, or an evidence-based article.
 
-- [CIB-203 — Android application security audit](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/README.en.md)
-- [Executive summary for leaders](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/EXECUTIVE_SUMMARY.en.md)
-- [Management walkthrough](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/MANAGEMENT_WALKTHROUGH.en.md)
-- [AI use and transparency](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/AI_USE_AND_TRANSPARENCY.en.md) · [Open-source notices](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/OPEN_SOURCE_NOTICES.en.md)
+### Start here
+
+| Area | Focus |
+|---|---|
+| [Governance & Risk](governance-risk/README.md) | Risk, controls, privacy, regulation, and accountability. |
+| [Security Operations](security-operations/README.md) | Assessment, detection, evidence, and response. |
+| [Security Engineering](security-engineering/README.md) | Data, network, software, and architecture security. |
+| [Cyber Resilience](cyber-resilience/README.md) | Continuity, recovery, crisis readiness, and resilience. |
+| [AI & Digital Trust](ai-digital-trust/README.md) | AI governance, autonomy, privacy, and trustworthy adoption. |
+| [Strategy, Leadership & Human Factors](strategy-leadership-human-factors/README.md) | Security leadership, culture, organizational trust, and change. |
+| [Research & Innovation](research-innovation/README.md) | Applied research, methods, and reusable cybersecurity artifacts. |
+
+### Featured work
+
+- [Android Application Security Audit Lab](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/README.md) — an isolated, reproducible lab that connects mobile-security evidence with risk and leadership decisions.
+- [Portfolio catalog](CATALOG.md) — the complete published index.
+- [What quality and consistency mean here](EXPERIENCE-STANDARD.md).
+
+### What to expect
+
+Every published piece identifies its audience, purpose, evidence boundary, practical value, and limits. It is written in a direct, methodical voice: technical when detail matters, executive when a decision is needed, and candid where evidence does not support a stronger claim.
+
+Examples, laboratory data, and scenarios are fictional, controlled, or sanitized. Views are my own.
 
 ## Español
 
-Este repositorio convierte trabajos seleccionados de maestría en tutoriales accesibles. El objetivo no es publicar tareas: es explicar cómo se diseñó el laboratorio, por qué se eligió cada componente, cómo se preservó la evidencia y qué debería aprender una persona directora de ciberseguridad de los resultados técnicos.
+Este es un portafolio profesional curado, no un repositorio de entregables académicos crudos. Cada pieza publicada transforma una pregunta relevante, una práctica controlada o un hallazgo de investigación en algo útil: un laboratorio defendible, un brief ejecutivo, un framework reutilizable o un artículo basado en evidencia.
 
-- [CIB-203 — Auditoría de seguridad de una aplicación Android](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/README.es.md)
-- [Resumen ejecutivo para líderes](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/RESUMEN_EJECUTIVO.es.md)
-- [Walkthrough gerencial](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/WALKTHROUGH_GERENCIAL.es.md)
-- [Uso de inteligencia artificial y transparencia](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/USO_IA_Y_TRANSPARENCIA.es.md) · [Avisos de código abierto](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/AVISOS_CODIGO_ABIERTO.es.md)
+### Empezar aquí
+
+Las siete áreas anteriores organizan el recorrido de lo general a lo específico. El catálogo reúne únicamente contenido publicado; la relación académica aporta trazabilidad, pero no reemplaza el valor profesional de cada pieza.
+
+### Qué esperar
+
+Cada publicación identifica audiencia, propósito, límite de evidencia, valor práctico y restricciones. La redacción es clara, metódica y directa: técnica cuando el detalle lo exige, ejecutiva cuando hace falta una decisión y honesta cuando la evidencia no permite una afirmación mayor.
+
+Los ejemplos, datos y escenarios son ficticios, controlados o sanitizados. Las opiniones son propias.
+
+## Academic foundation | Base académica
+
+Selected work is aligned with the Professional Master's in Cybersecurity and Information Security at Universidad CENFOTEC. See [academic alignment](ACADEMIC-ALIGNMENT.md) for the program-to-portfolio map.
 
 ## Reuse | Reutilización
 
-Everything authored here is dedicated to the public domain under [The Unlicense](LICENSE). Use it, adapt it, teach with it, and improve it; attribution is appreciated but not required.
-
-Todo lo creado aquí se dedica al dominio público mediante [The Unlicense](LICENSE). Puede usarlo, adaptarlo, enseñarlo y mejorarlo; se agradece la referencia, pero no es obligatoria.
-
-If it helps someone learn, that is enough payment. **Pura vida!**
+Original repository material is released under [The Unlicense](LICENSE). Third-party material is never republished unless its license permits it and its attribution is preserved.
