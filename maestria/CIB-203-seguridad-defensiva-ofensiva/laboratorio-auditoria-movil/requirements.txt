@@ -1,0 +1,7 @@
+Flask==1.1.4
+SQLAlchemy==1.3.24
+simplejson==3.17.6
+web.py==0.51
+CherryPy==17.4.2
+cheroot==6.5.8
+
