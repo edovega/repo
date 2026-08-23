@@ -1,0 +1,34 @@
+id: mobile-application-security-audit
+title: Android Application Security Audit Lab
+title_es: Laboratorio de Auditoría de Seguridad de Aplicaciones Android
+type: lab
+status: published
+primary_domain: security-operations
+secondary_domains:
+  - security-engineering
+  - governance-risk
+target_roles:
+  - cybersecurity-governance-leader
+  - security-operations-leader
+  - security-architect
+competencies:
+  - mobile-security-assessment
+  - evidence-management
+  - technical-to-business-translation
+  - executive-communication
+academic_courses:
+  - CIB-203
+languages:
+  - en
+  - es
+evidence_type: controlled-lab
+sanitization: completed
+author: eduardo-j-vega-arguedas
+published: 2026-08-23
+updated: 2026-08-23
+ai_assistance: disclosed
+tags:
+  - android-security
+  - mobile-security
+  - evidence
+  - security-assessment

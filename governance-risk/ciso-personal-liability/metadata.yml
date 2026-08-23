@@ -1,0 +1,32 @@
+id: ciso-personal-liability
+title: Who Answers When the CISO Stays Silent?
+title_es: ¿Quién responde cuando el CISO calla?
+type: article
+status: published
+primary_domain: governance-risk
+secondary_domains:
+  - strategy-leadership-human-factors
+target_roles:
+  - cybersecurity-governance-leader
+  - board-director
+  - general-counsel
+competencies:
+  - regulatory-risk-analysis
+  - executive-risk-communication
+  - governance-accountability
+academic_courses:
+  - CIB-205
+languages:
+  - en
+  - es
+evidence_type: sourced-analysis
+sanitization: completed
+author: eduardo-j-vega-arguedas
+published: 2026-08-23
+updated: 2026-08-23
+ai_assistance: disclosed
+tags:
+  - ciso-liability
+  - cybersecurity-governance
+  - regulatory-risk
+  - costa-rica

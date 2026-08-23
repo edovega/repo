@@ -16,3 +16,8 @@ evidencias-crudas/
 capturas-crudas/
 local/
 
+# Local Obsidian state: the repository root can be opened as a vault.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/graph.json

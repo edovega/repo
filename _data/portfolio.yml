@@ -1,0 +1,33 @@
+portfolio:
+  name: Cybersecurity Leadership & Practice Portfolio
+  primary_language: en
+  secondary_language: es
+  author: eduardo-j-vega-arguedas
+author:
+  id: eduardo-j-vega-arguedas
+  name: Eduardo J. Vega Arguedas
+  display_name: Eduardo J. Vega Arguedas (Ed)
+  linkedin: https://www.linkedin.com/in/eduardovegaa/
+  github: https://github.com/edovega
+  program: https://ucenfotec.ac.cr/Carreras/maestria-profesional-en-ciberseguridad-y-seguridad-de-la-informacion/
+taxonomy:
+  types:
+    - article
+    - lab
+    - framework
+    - research
+    - case-study
+    - executive-brief
+    - experiment
+  domains:
+    - governance-risk
+    - security-operations
+    - security-engineering
+    - cyber-resilience
+    - ai-digital-trust
+    - strategy-leadership-human-factors
+    - research-innovation
+  states:
+    - published
+    - maintained
+    - archived
