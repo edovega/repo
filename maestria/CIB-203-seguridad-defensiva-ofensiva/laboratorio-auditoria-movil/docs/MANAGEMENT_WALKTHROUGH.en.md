@@ -1,5 +1,7 @@
 # Mobile security management walkthrough
 
+> Transparency: see the [generative AI use statement](AI_USE_AND_TRANSPARENCY.en.md) and [open-source notices](OPEN_SOURCE_NOTICES.en.md).
+
 ## 1. Start with the business, not the tool
 
 The first question is not “Which scanner will we use?” It is “Which business process does this app enable, and what happens if someone acts as another user, changes a transaction, extracts information, or interrupts service?” A marketing app, wallet, internal workforce tool, and clinical app do not require the same assurance depth.
@@ -157,4 +159,3 @@ Do not turn finding count into a contest: broader testing can produce more findi
 - [European Union Digital Operational Resilience Act — DORA](https://eur-lex.europa.eu/eli/reg/2022/2554/oj)
 
 > This material translates governance and security practices into business decisions. It is not legal, regulatory, tax, or contractual advice for a particular jurisdiction or entity.
-

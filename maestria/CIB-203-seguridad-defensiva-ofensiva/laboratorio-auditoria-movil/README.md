@@ -7,6 +7,11 @@
 - English: [Executive summary](docs/EXECUTIVE_SUMMARY.en.md) · [Management walkthrough](docs/MANAGEMENT_WALKTHROUGH.en.md)
 - Español: [Resumen ejecutivo](docs/RESUMEN_EJECUTIVO.es.md) · [Walkthrough gerencial](docs/WALKTHROUGH_GERENCIAL.es.md)
 
+## Transparency and licensing | Transparencia y licencias
+
+- English: [AI use and transparency](docs/AI_USE_AND_TRANSPARENCY.en.md) · [Open-source notices](docs/OPEN_SOURCE_NOTICES.en.md)
+- Español: [Uso de inteligencia artificial y transparencia](docs/USO_IA_Y_TRANSPARENCIA.es.md) · [Avisos de código abierto](docs/AVISOS_CODIGO_ABIERTO.es.md)
+
 **Author:** Eduardo J. Vega Arguedas (Ed) · [LinkedIn](https://www.linkedin.com/in/eduardovegaa/)
 
 This is a public tutorial, not an academic submission. It combines a reproducible technical path with management notes for cybersecurity leaders.

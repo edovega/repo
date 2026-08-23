@@ -1,5 +1,7 @@
 # Executive summary: why mobile security belongs on the leadership agenda
 
+> Transparency: see the [generative AI use statement](AI_USE_AND_TRANSPARENCY.en.md) and [open-source notices](OPEN_SOURCE_NOTICES.en.md).
+
 A mobile application is not merely an interface. It extends the business into identities, data, payments, decisions, and customer trust beyond the traditional perimeter. Failure may surface as fraud, information exposure, disruption, contractual or regulatory consequences, response costs, and reputational damage.
 
 This lab uses a deliberately vulnerable application to demonstrate a management principle: **risk does not reside only in the code visible on the phone**. It also exists in application programming interfaces, the backend, configuration, libraries, third-party services, identity, the development process, and the evidence used to demonstrate due care.
@@ -35,4 +37,3 @@ Execution may be internal, outsourced, or hybrid. The right model depends on cri
 - [Full management walkthrough](MANAGEMENT_WALKTHROUGH.en.md)
 - [Methodology and traceability](METHODOLOGY.en.md)
 - [Laboratory bill of materials](BOM.en.md)
-

@@ -1,5 +1,7 @@
 # Resumen ejecutivo: por qué la seguridad móvil es un asunto de dirección
 
+> Transparencia: consulte la [declaración de uso de inteligencia artificial](USO_IA_Y_TRANSPARENCIA.es.md) y los [avisos de código abierto](AVISOS_CODIGO_ABIERTO.es.md).
+
 Una aplicación móvil no es solamente una interfaz. Es una extensión del negocio que procesa identidad, datos, pagos, decisiones y confianza fuera del perímetro tradicional. Cuando falla, el impacto puede aparecer como fraude, exposición de información, interrupción, sanción contractual o regulatoria, costos de respuesta y pérdida de reputación.
 
 Este laboratorio utiliza una aplicación deliberadamente vulnerable para mostrar una idea gerencial: **el riesgo no reside solo en el código visible en el teléfono**. También existe en las interfaces de programación, el backend, la configuración, las bibliotecas, los servicios de terceros, la identidad, el proceso de desarrollo y la evidencia con la que la organización demuestra diligencia.
@@ -35,4 +37,3 @@ La ejecución puede ser interna, externa o híbrida. La opción correcta depende
 - [Walkthrough gerencial completo](WALKTHROUGH_GERENCIAL.es.md)
 - [Metodología y trazabilidad](METODOLOGIA.es.md)
 - [Lista de materiales del laboratorio](BOM.es.md)
-

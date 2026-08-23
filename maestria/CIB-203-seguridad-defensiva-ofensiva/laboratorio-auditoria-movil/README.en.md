@@ -1,6 +1,6 @@
 # How to Audit an Android App: From an Isolated Lab to Defensible Evidence
 
-[Español](README.es.md) · [BOM](docs/BOM.en.md) · [Methodology](docs/METHODOLOGY.en.md)
+[Español](README.es.md) · [BOM](docs/BOM.en.md) · [Methodology](docs/METHODOLOGY.en.md) · [Transparency](docs/AI_USE_AND_TRANSPARENCY.en.md) · [Open-source notices](docs/OPEN_SOURCE_NOTICES.en.md)
 
 **Author:** [Eduardo J. Vega Arguedas (Ed)](https://www.linkedin.com/in/eduardovegaa/)
 
@@ -172,4 +172,3 @@ This public tutorial intentionally excludes raw screenshots, packet captures, An
 This tutorial and its original scripts are released under [The Unlicense](../../../LICENSE). Use, translate, adapt, or teach with them. Attribution is welcome but not required.
 
 If this helps someone build a better security practice, that is enough. **Pura vida!**
-

@@ -1,5 +1,7 @@
 # Walkthrough gerencial de seguridad móvil
 
+> Transparencia: consulte la [declaración de uso de inteligencia artificial](USO_IA_Y_TRANSPARENCIA.es.md) y los [avisos de código abierto](AVISOS_CODIGO_ABIERTO.es.md).
+
 ## 1. Empiece por el negocio, no por la herramienta
 
 La primera pregunta no es “¿qué escáner vamos a usar?”, sino “¿qué proceso habilita esta aplicación y qué ocurriría si alguien actuara como otro usuario, alterara una transacción, extrajera información o interrumpiera el servicio?”. Una aplicación de mercadeo, una billetera, una herramienta interna y una aplicación clínica no requieren la misma profundidad.
@@ -157,4 +159,3 @@ Evite convertir el número de hallazgos en una competencia: más pruebas pueden 
 - [Reglamento europeo de resiliencia operativa digital — DORA](https://eur-lex.europa.eu/eli/reg/2022/2554/oj)
 
 > Este material traduce prácticas de gobierno y seguridad a decisiones empresariales. No sustituye asesoría legal, regulatoria, fiscal o contractual para una jurisdicción o entidad concreta.
-

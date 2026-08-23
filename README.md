@@ -13,6 +13,7 @@ This repository turns selected graduate-level cybersecurity work into approachab
 - [CIB-203 — Android application security audit](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/README.en.md)
 - [Executive summary for leaders](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/EXECUTIVE_SUMMARY.en.md)
 - [Management walkthrough](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/MANAGEMENT_WALKTHROUGH.en.md)
+- [AI use and transparency](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/AI_USE_AND_TRANSPARENCY.en.md) · [Open-source notices](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/OPEN_SOURCE_NOTICES.en.md)
 
 ## Español
 
@@ -21,6 +22,7 @@ Este repositorio convierte trabajos seleccionados de maestría en tutoriales acc
 - [CIB-203 — Auditoría de seguridad de una aplicación Android](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/README.es.md)
 - [Resumen ejecutivo para líderes](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/RESUMEN_EJECUTIVO.es.md)
 - [Walkthrough gerencial](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/WALKTHROUGH_GERENCIAL.es.md)
+- [Uso de inteligencia artificial y transparencia](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/USO_IA_Y_TRANSPARENCIA.es.md) · [Avisos de código abierto](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/docs/AVISOS_CODIGO_ABIERTO.es.md)
 
 ## Reuse | Reutilización
 
