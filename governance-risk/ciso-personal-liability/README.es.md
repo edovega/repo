@@ -63,8 +63,8 @@ Ley N.° 8968, Protección de la Persona frente al Tratamiento de sus Datos Pers
 
 ## Contenido relacionado
 
-- Diseño de un sistema de gestión de seguridad de la información: qué debe aprobar una junta directiva antes de firmarlo *(próximamente, Governance & Risk)*
-- Identidad digital y protección de datos: qué debe decidir un directorio antes de aprobar un proyecto de blockchain *(próximamente, Governance & Risk)*
+- [Qué debe aprobar una junta antes de firmar un SGSI](../isms-board-approval/README.es.md) — Governance & Risk
+- [La pregunta que la junta debe hacer antes del diagrama de arquitectura](../privacy-before-architecture/README.es.md) — Governance & Risk
 
 ---
 

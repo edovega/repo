@@ -63,8 +63,8 @@ Law No. 8968, Protection of Individuals with Regard to the Processing of Their P
 
 ## Related work
 
-- Designing an information security management system: what a board must approve before signing off *(coming soon, Governance & Risk)*
-- Digital identity and data protection: what a board must decide before approving a blockchain project *(coming soon, Governance & Risk)*
+- [What a Board Must Approve Before Signing Off an ISMS](../isms-board-approval/README.en.md) — Governance & Risk
+- [The Board Question That Should Come Before the Architecture Diagram](../privacy-before-architecture/README.en.md) — Governance & Risk
 
 ---
 

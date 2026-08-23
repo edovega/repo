@@ -1,0 +1,32 @@
+id: privacy-before-architecture
+title: The Board Question That Should Come Before the Architecture Diagram
+title_es: La pregunta que la junta debe hacer antes del diagrama de arquitectura
+type: article
+status: published
+primary_domain: governance-risk
+secondary_domains:
+  - ai-digital-trust
+target_roles:
+  - board-director
+  - general-counsel
+  - chief-technology-officer
+competencies:
+  - privacy-by-design
+  - regulatory-risk-analysis
+  - executive-risk-communication
+academic_courses:
+  - CIB-205
+languages:
+  - en
+  - es
+evidence_type: sourced-analysis
+sanitization: completed
+author: eduardo-j-vega-arguedas
+published: 2026-08-23
+updated: 2026-08-23
+ai_assistance: disclosed
+tags:
+  - data-protection
+  - digital-identity
+  - blockchain-governance
+  - costa-rica

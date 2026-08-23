@@ -1,0 +1,32 @@
+id: isms-board-approval
+title: What a Board Must Approve Before Signing Off an ISMS
+title_es: Qué debe aprobar una junta antes de firmar un SGSI
+type: article
+status: published
+primary_domain: governance-risk
+secondary_domains:
+  - strategy-leadership-human-factors
+target_roles:
+  - board-director
+  - chief-executive
+  - cybersecurity-governance-leader
+competencies:
+  - risk-governance
+  - control-prioritization
+  - executive-risk-communication
+academic_courses:
+  - CIB-200
+languages:
+  - en
+  - es
+evidence_type: sourced-analysis
+sanitization: completed
+author: eduardo-j-vega-arguedas
+published: 2026-08-23
+updated: 2026-08-23
+ai_assistance: disclosed
+tags:
+  - isms
+  - iso-27001
+  - risk-governance
+  - board-oversight

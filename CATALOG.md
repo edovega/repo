@@ -10,6 +10,8 @@ Este catálogo contiene trabajo profesional listo para publicar. Excluye intenci
 |---|---|---|---|
 | [Android Application Security Audit Lab](maestria/CIB-203-seguridad-defensiva-ofensiva/laboratorio-auditoria-movil/README.md) | Lab | [Security Operations](security-operations/README.md) | Controlled assessment, evidence integrity, technical-to-business translation, and executive communication. |
 | [Who Answers When the CISO Stays Silent?](governance-risk/ciso-personal-liability/README.md) | Article | [Governance & Risk](governance-risk/README.md) | Regulatory risk analysis, executive risk communication, and governance accountability reasoning. |
+| [What a Board Must Approve Before Signing Off an ISMS](governance-risk/isms-board-approval/README.md) | Article | [Governance & Risk](governance-risk/README.md) | Risk-based control prioritization and board-level ISMS oversight. |
+| [The Board Question That Should Come Before the Architecture Diagram](governance-risk/privacy-before-architecture/README.md) | Article | [Governance & Risk](governance-risk/README.md) | Privacy-by-design reasoning and legal-technical risk sequencing. |
 
 ## Reading paths | Rutas de lectura
 
