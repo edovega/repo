@@ -1,6 +1,6 @@
 # Laboratorio: auditoría de seguridad en aplicaciones móviles
 
-[English](README.en.md) · [BOM](docs/BOM.es.md) · [Metodología](docs/METODOLOGIA.es.md) · [Transparencia](docs/USO_IA_Y_TRANSPARENCIA.es.md) · [Código abierto](docs/AVISOS_CODIGO_ABIERTO.es.md)
+[English](README.en.md) · [Estructura y objetivos](docs/ESTRUCTURA_Y_OBJETIVOS.es.md) · [BOM](docs/BOM.es.md) · [Metodología](docs/METODOLOGIA.es.md) · [Transparencia](docs/USO_IA_Y_TRANSPARENCIA.es.md) · [Código abierto](docs/AVISOS_CODIGO_ABIERTO.es.md)
 
 **Autor:** [Eduardo J. Vega Arguedas (Ed)](https://www.linkedin.com/in/eduardovegaa/)
 

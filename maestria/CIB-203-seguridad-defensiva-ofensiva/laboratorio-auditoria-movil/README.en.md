@@ -1,6 +1,6 @@
 # How to Audit an Android App: From an Isolated Lab to Defensible Evidence
 
-[Español](README.es.md) · [BOM](docs/BOM.en.md) · [Methodology](docs/METHODOLOGY.en.md) · [Transparency](docs/AI_USE_AND_TRANSPARENCY.en.md) · [Open-source notices](docs/OPEN_SOURCE_NOTICES.en.md)
+[Español](README.es.md) · [Structure and objectives](docs/STRUCTURE_AND_OBJECTIVES.en.md) · [BOM](docs/BOM.en.md) · [Methodology](docs/METHODOLOGY.en.md) · [Transparency](docs/AI_USE_AND_TRANSPARENCY.en.md) · [Open-source notices](docs/OPEN_SOURCE_NOTICES.en.md)
 
 **Author:** [Eduardo J. Vega Arguedas (Ed)](https://www.linkedin.com/in/eduardovegaa/)
 
